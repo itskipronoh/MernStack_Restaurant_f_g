@@ -1,0 +1,185 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "QUALITY FOOD",
+                "description": "Indulge in a culinary journey of exquisite flavors and superior quality. Our chefs meticulously craft each dish, ensuring a delightful experience for your taste buds."
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "SUPER TASTE",
+                "description": "Immerse yourself in a warm and inviting atmosphere that complements your dining experience. Our cozy ambiance is designed to make you feel right at home, whether you're enjoying a romantic dinner or a casual gathering with friends."
+            },
+            {
+                "id": 3,
+                "image": "./fast_delivery.svg",
+                "title": "FAST DELIVERY",
+                "description": "Experience impeccable service from our attentive staff who are dedicated to making your visit memorable. From the moment you step through our doors, expect nothing but excellence in service, ensuring your comfort and satisfaction."
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./dinner1.jpeg",
+                "title": "ROASTED LAMB RUMP",
+                "category": "Dinner"
+            },
+            {
+                "id": 2,
+                "image": "./dinner2.png",
+                "title": "CITRUS CURED SALMON",
+                "category": "Dinner"
+            },
+            {
+                "id": 3,
+                "image": "./breakfast1.png",
+                "title": "PAN SEARED SEA BASS",
+                "category": "Breakfast"
+            },
+            {
+                "id": 4,
+                "image": "./dinner3.png",
+                "title": "STUFFED STRAWBERRY",
+                "category": "Dinner"
+            },
+            {
+                "id": 5,
+                "image": "./lunch1.png",
+                "title": "BEEF BURGER MEAL",
+                "category": "Lunch"
+            },
+            {
+                "id": 6,
+                "image": "./dinner4.png",
+                "title": "MUSSELS SOUP",
+                "category": "Dinner"
+            },
+            {
+                "id": 7,
+                "image": "./dinner5.png",
+                "title": "ITALIAN SPAGHETTI",
+                "category": "Dinner"
+            },
+            {
+                "id": 8,
+                "image": "./dinner6.png",
+                "title": "GRILLED FISH",
+                "category": "Dinner"
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+        
+                "name": "David Kipkurui",
+                "designation": "Regular customer",
+                "review": "Fantastic food! I loved the flavors and the presentation. Will definitely come back."
+            },
+            {
+                "id": 2,
+            
+                "name": "Hillary Rotich ",
+              
+                "designation": "Family Foodies",
+              
+                "review": "Perfect place for a family dinner. The menu has something for everyone, and the taste is exceptional."
+            },
+            {
+                "id": 3,
+                "name": "Evanny Kurgat",
+             
+                "designation": "Loyal Patron",
+       
+          "review": "Consistently excellent service and top-notch cuisine. One of my favorite places in town."
+            },
+            {
+                "id": 4,
+                
+                "name": "Nickson Ruto",
+               
+                "designation": "First-Time Visitor",
+             
+                "review": "Great atmosphere and delicious dishes. A perfect place for a delightful dining experience."
+            }
+
+         
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "5",
+                "title": "Restaurants"
+            },
+            {
+                "id": 2,
+                "number": "15",
+                "title": "Chef In Kitchen"
+            },
+            {
+                "id": 3,
+                "number": "2",
+                "title": "Years Of Experience"
+            },
+            {
+                "id": 4,
+                "number": "50",
+                "title": "Food Dishes"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "HOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "ABOUT US",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "SERVICES",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "CUSTOMER REVIEWS",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "RESERVATION",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
